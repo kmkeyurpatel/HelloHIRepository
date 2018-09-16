@@ -9,6 +9,6 @@ public class PrintHello {
 	@Test
 	public void MethodHello()
 	{
-		System.out.println("Hello");
+		System.out.println("Hello change");
 	}
 }

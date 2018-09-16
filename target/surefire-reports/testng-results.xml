@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="44" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+  <suite name="Suite" duration-ms="67" started-at="2018-09-16T16:12:12Z" finished-at="2018-09-16T16:12:12Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="44" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+    <test name="Test" duration-ms="67" started-at="2018-09-16T16:12:12Z" finished-at="2018-09-16T16:12:12Z">
       <class name="com.PrintStatement.test.PrintHI">
-        <test-method status="PASS" signature="MethodHi()[pri:0, instance:com.PrintStatement.test.PrintHI@73f792cf]" name="MethodHi" duration-ms="0" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+        <test-method status="PASS" signature="MethodHi()[pri:0, instance:com.PrintStatement.test.PrintHI@2ed94a8b]" name="MethodHi" duration-ms="1" started-at="2018-09-16T16:12:12Z" finished-at="2018-09-16T16:12:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MethodHi -->
       </class> <!-- com.PrintStatement.test.PrintHI -->
       <class name="com.PrintStatement.test.PrintHello">
-        <test-method status="PASS" signature="MethodHello()[pri:0, instance:com.PrintStatement.test.PrintHello@79b4d0f]" name="MethodHello" duration-ms="12" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+        <test-method status="PASS" signature="MethodHello()[pri:0, instance:com.PrintStatement.test.PrintHello@6b2fad11]" name="MethodHello" duration-ms="15" started-at="2018-09-16T16:12:12Z" finished-at="2018-09-16T16:12:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- MethodHello -->
