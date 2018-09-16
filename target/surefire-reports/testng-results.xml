@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+      <class name="com.PrintStatement.test.PrintHI">
+        <test-method status="PASS" signature="MethodHi()[pri:0, instance:com.PrintStatement.test.PrintHI@73f792cf]" name="MethodHi" duration-ms="0" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodHi -->
+      </class> <!-- com.PrintStatement.test.PrintHI -->
+      <class name="com.PrintStatement.test.PrintHello">
+        <test-method status="PASS" signature="MethodHello()[pri:0, instance:com.PrintStatement.test.PrintHello@79b4d0f]" name="MethodHello" duration-ms="12" started-at="2018-09-16T15:16:39Z" finished-at="2018-09-16T15:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MethodHello -->
+      </class> <!-- com.PrintStatement.test.PrintHello -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
